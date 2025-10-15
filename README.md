@@ -3,11 +3,13 @@
 
 ## Skills
 1. Programming
-- Вложенный элемент
-- Вложенный элемент
-- Вложенный элемент
-3. Computer networks
-4. Foreign languages
+  - C/C++Вложенный элемент
+  - C#т
+  - Python
+  - ...
+2. Computer networks
+3. Foreign languages
+   - English A2
 
 ## Schedule
 | День недели   | Занятие        | Время     |
