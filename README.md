@@ -8,14 +8,14 @@
    - English A2
 
 ## Schedule (it may vary)
-| Day           | Lesson                      | Start     |
-|---------------|-----------------------------|-----------|
-| Monday        | Two pairs                   | 14:00     |
-| Tuesday       | Практика по Python          | 10:00     |
-| Wednesday     | Свободный день              | 14:00     |
-| Thursday      | Лабораторная по БД          | 14:00     |
-| Friday        | Two pairs                   | 10:00     |
-| Saturday      | Семинар по английскому      | 10:00     |
+| Day           | Lesson           | Start     |
+|---------------|------------------|-----------|
+| Monday        | Two pairs        | 14:00     |
+| Tuesday       | Three pairs      | 10:00     |
+| Wednesday     | Seminars         | 14:00     |
+| Thursday      | Three pairs      | 14:00     |
+| Friday        | Two pairs        | 10:00     |
+| Saturday      | Three pairs      | 10:00     |
 
 
 ## Example code in Python
