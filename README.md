@@ -7,17 +7,15 @@
 3. Foreign languages
    - English A2
 
-
-| Day       | Lesson         | Start     |
-|------- ---|----------------|-----------|
-| Monday    | Two pairs      | 14:00     |
-| Tuesday   | Three pairs    | 10:00     |
-| Wednesday | Seminars       | 14:00     |
-| Thursday  | Three pairs    | 14:00     |
-| Friday    | Two pairs      | 10:00     |
-| Saturday  | Three pairs    | 12:00     |
-
 ## Schedule (it may vary)
+| День недели   | Занятие                     | Время     |
+|---------------|-----------------------------|-----------|
+| Понедельник   | Лекция по алгоритмам        | 10:00     |
+| Вторник       | Практика по Python          | 14:00     |
+| Среда         | Свободный день              | —         |
+| Четверг       | Лабораторная по БД          | 16:00     |
+| Пятница       | Семинар по английскому      | 12:00     |
+
 
 ## Example code in Python
 ```Python
