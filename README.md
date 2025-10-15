@@ -27,25 +27,20 @@ import os
 app = Flask(__name__)
 
 def read_file(file_path):
-    """Чтение CSV файла"""
+    """Reading a CSV file"""
     return pd.read_csv(file_path, encoding='utf-8')
 
 def get_sales_data(dataset, year):
-    """Выручка по городам за конкретный год с учетом штата"""
+    """Revenue by city for a specific year, taking into account the state"""
     year_data = dataset[dataset['order_date'].str[:4] == year].copy()
     # Группируем по городу и штату вместе
     result = year_data.groupby(['city', 'state'], as_index=False).agg(
         count=('order_date', 'count'), 
         sales=('sales', 'sum')
     )
-    # Создаем объединенное название "Город, Штат"
+    # Combined name "City, State
     result['city_state'] = result['city'] + ', ' + result['state']
     return result.sort_values('sales', ascending=False)    
-
-@app.route('/')
-def index():
-    """Главная страница"""
-    return render_template('index.html')
 ```
 
 <!--
