@@ -33,7 +33,7 @@ def read_file(file_path):
 def get_sales_data(dataset, year):
     """Revenue by city for a specific year, taking into account the state"""
     year_data = dataset[dataset['order_date'].str[:4] == year].copy()
-    # Группируем по городу и штату вместе
+    # Group by city and state
     result = year_data.groupby(['city', 'state'], as_index=False).agg(
         count=('order_date', 'count'), 
         sales=('sales', 'sum')
