@@ -1,4 +1,4 @@
-## Hi there! 👋I'm Andrei Cherniltsev
+## Hi there! 👋 I'm Andrei Cherniltsev
 
 ## Skills
 1. Programming
