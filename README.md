@@ -8,14 +8,14 @@
    - English A2
 
 ## Schedule (it may vary)
-| День недели   | Занятие        | Время     |
-|---------------|----------------|-----------|
-| Понедельник   | Две пары       | 14:00     |
-| Вторник       | Три пары       | 10:00     |
-| Среда         | Семинары       | 14:00     |
-| Четверг       | Три пары       | 14:00     |
-| Пятница       | Две пары       | 10:00     |
-| Пятница       | Три пары       | 12:00     |
+| Day       | Lesson         | Start     |
+|------- ---|----------------|-----------|
+| Monday    | Two pairs      | 14:00     |
+| Tuesday   | Three pairs    | 10:00     |
+| Wednesday | Seminars       | 14:00     |
+| Thursday  | Three pairs    | 14:00     |
+| Friday    | Two pairs      | 10:00     |
+| Saturday  | Three pairs    | 12:00     |
 
 ## Example code in Python
 ```Python
