@@ -1,7 +1,10 @@
 ## Hi there! 👋
 ## Andrei Cherniltsev
 
-## Andrei Cherniltsev
+## Skills
+1. Programming
+2. Computer networks
+3. Foreign languages
 
 ## Andrei Cherniltsev
 
