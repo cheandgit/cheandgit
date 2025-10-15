@@ -3,8 +3,11 @@
 
 ## Skills
 1. Programming
-2. Computer networks
-3. Foreign languages
+- Вложенный элемент
+- Вложенный элемент
+- Вложенный элемент
+3. Computer networks
+4. Foreign languages
 
 ## Schedule
 | День недели   | Занятие        | Время     |
