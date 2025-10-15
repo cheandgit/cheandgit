@@ -7,7 +7,7 @@
 3. Foreign languages
    - English A2
 
-## Schedule (it may vary)
+
 | Day       | Lesson         | Start     |
 |------- ---|----------------|-----------|
 | Monday    | Two pairs      | 14:00     |
@@ -16,6 +16,8 @@
 | Thursday  | Three pairs    | 14:00     |
 | Friday    | Two pairs      | 10:00     |
 | Saturday  | Three pairs    | 12:00     |
+
+## Schedule (it may vary)
 
 ## Example code in Python
 ```Python
