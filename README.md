@@ -20,7 +20,7 @@
 | Пятница       | Две пары       | 10:00     |
 | Пятница       | Три пары       | 12:00     |
 
-## Пример кода на Python
+## Example code in Python
 ```Python
 from flask import Flask, render_template, jsonify
 import pandas as pd
