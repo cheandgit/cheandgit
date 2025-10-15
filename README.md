@@ -2,10 +2,7 @@
 
 ## Skills
 1. Programming
-   - C/C++Вложенный элемент
-   - C#т
-   - Python
-   - ...
+   - C/C++, C#, Python, ...
 2. Computer networks
 3. Foreign languages
    - English A2
