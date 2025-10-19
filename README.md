@@ -20,16 +20,6 @@
 
 ## Example code in Python
 ```Python
-from flask import Flask, render_template, jsonify
-import pandas as pd
-import os
-
-app = Flask(__name__)
-
-def read_file(file_path):
-    """Reading a CSV file"""
-    return pd.read_csv(file_path, encoding='utf-8')
-
 def get_sales_data(dataset, year):
     """Revenue by city for a specific year, taking into account the state"""
     year_data = dataset[dataset['order_date'].str[:4] == year].copy()
