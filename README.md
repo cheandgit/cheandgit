@@ -11,11 +11,11 @@
 | Day           | Lesson           | Start     |
 |---------------|------------------|-----------|
 | Monday        | Two pairs        | 14:00     |
-| Tuesday       | Four pairs       | 10:00     |
+| Tuesday       | Three pairs      | 10:00     |
 | Wednesday     | Seminars         | 14:00     |
 | Thursday      | Three pairs      | 14:00     |
 | Friday        | Two pairs        | 10:00     |
-| Saturday      | Three pairs      | 10:00     |
+| Saturday      | Seminars         | 10:00     |
 
 
 ## Example code in Python
