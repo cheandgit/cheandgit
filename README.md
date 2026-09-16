@@ -2,7 +2,7 @@
 
 ## Skills
 1. Programming
-   - C/C++, C#, Python, ...
+   - C/C++, C#, Python, SQL, ...
 2. Computer networks
 3. Foreign languages
    - English A2
@@ -10,10 +10,9 @@
 ## Schedule (it may vary)
 | Day           | Lesson           | Start     |
 |---------------|------------------|-----------|
-| Monday        | Two pairs        | 14:00     |
-| Tuesday       | Three pairs      | 10:00     |
+| Tuesday       | Two pairs        | 10:00     |
 | Wednesday     | Seminars         | 14:00     |
-| Thursday      | Three pairs      | 14:00     |
+| Thursday      | Three pairs      | 12:00     |
 | Friday        | Two pairs        | 10:00     |
 | Saturday      | Seminars         | 10:00     |
 
