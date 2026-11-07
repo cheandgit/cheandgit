@@ -12,8 +12,8 @@
 |---------------|------------------|-----------|
 | Tuesday       | Two pairs        | 10:00     |
 | Wednesday     | Seminars         | 14:00     |
-| Thursday      | Three pairs      | 12:00     |
-| Friday        | Two pairs        | 10:00     |
+| Thursday      | Two pairs        | 10:00     |
+| Friday        | Two pairs        | 12:00     |
 | Saturday      | Seminars         | 10:00     |
 
 
